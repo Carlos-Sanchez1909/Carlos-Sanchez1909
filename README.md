@@ -42,9 +42,7 @@
 </table>
 
 </div>
-
 ---
-
 ## 📬 CONTACT & CONNECT
 
 <div align="center">
