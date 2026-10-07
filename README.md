@@ -67,7 +67,7 @@
 <a href="https://github.com/Carlos-Sanchez1909"><img src="https://img.shields.io/badge/GitHub-Carlos--Sanchez1909-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
 <br><br>
 
-`BUILD` · `LEARN` · `IMPROVE` · `REPEAT`
+`OPTIMIZE` · `ANALIZE` · `PERSIST` · `EVOLVE`
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:064e3b,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
