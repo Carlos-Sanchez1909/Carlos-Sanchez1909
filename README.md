@@ -23,6 +23,14 @@
 </div>
 
 <br>
+---
+
+<!-- Pac-Man Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-Sanchez1909/Carlos-Sanchez1909/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-Sanchez1909/Carlos-Sanchez1909/output/github-contribution-grid-snake.svg" />
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/Carlos-Sanchez1909/Carlos-Sanchez1909/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</picture>
 
 ---
 
