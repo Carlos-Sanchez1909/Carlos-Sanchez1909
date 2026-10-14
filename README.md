@@ -11,18 +11,19 @@
 <div align="center">
 
 <a href="https://github.com/Carlos-Sanchez1909">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=640&height=50&lines=Building+digital+products+with+code;Software+Engineering+Student;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=640&height=50&lines=Building+digital+products+with+code;Python+Developer+%C2%B7+Data+%26+Code;Build+%C2%B7+Learn+%C2%B7+Improve+%C2%B7+Repeat" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Carlos-Sanchez1909&label=Profile+views&color=22c55e&style=for-the-badge" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Carlos-Sanchez1909&label=Profile+views&color=22c55e&style=for-the-badge&labelColor=0d1117" alt="views" />
 <a href="https://github.com/Carlos-Sanchez1909?tab=followers"><img src="https://img.shields.io/github/followers/Carlos-Sanchez1909?style=for-the-badge&logo=github&color=22c55e&labelColor=0d1117" alt="followers" /></a>
 <a href="https://github.com/Carlos-Sanchez1909?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-22c55e?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" /></a>
 
 </div>
 
 <br>
+
 ---
 
 <div align="center">
@@ -35,8 +36,6 @@
 </picture>
 
 </div>
-
----
 
 ---
 
