@@ -16,7 +16,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Carlos-Sanchez1909&label=Profile+views&color=22c55e&style=for-the-badge" alt="views" />
 <a href="https://github.com/Carlos-Sanchez1909?tab=followers"><img src="https://img.shields.io/github/followers/Carlos-Sanchez1909?style=for-the-badge&logo=github&color=22c55e&labelColor=0d1117" alt="followers" /></a>
 <a href="https://github.com/Carlos-Sanchez1909?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-22c55e?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="repos" /></a>
 
